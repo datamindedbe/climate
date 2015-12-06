@@ -1,0 +1,6 @@
+data/
+experiment/
+*.pyc
+.idea/
+vagrant/
+venv/
