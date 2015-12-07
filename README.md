@@ -1,6 +1,6 @@
 # README #
 
-This is a demo repo that reads xco2 data from the [NASA project](http://disc.sci.gsfc.nasa.gov/datacollection/ACOS_L2S_V3.3.html#tabs-2) and loads it into elasticsearch. 
+This is a demo repo that reads xco2 data from the [ACOS GOSAT project](http://disc.sci.gsfc.nasa.gov/datacollection/ACOS_L2S_V3.3.html#tabs-2) from NASA and loads it into elasticsearch. 
 
 ### How do I get set up? ###
 
